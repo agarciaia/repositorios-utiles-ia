@@ -1,5 +1,24 @@
 # Registro de selección y actualizaciones
 
+## Revisión del 2 de noviembre de 2026
+
+### Resultado
+- Se verificaron los 24 proyectos seleccionados: 23 continúan activos y no archivados; PocketBase fue archivado por su autor el 26 de octubre de 2026.
+- **PocketBase se retiró de la selección de GitHub.** El proyecto no está abandonado: su desarrollo oficial se trasladó a [ganigeorgiev.com/pocketbase](https://ganigeorgiev.com/pocketbase/pocketbase), sin espejo oficial mantenido en GitHub. Al quedar el repositorio de GitHub en modo de solo lectura, dejó de cumplir el criterio de actividad de esta colección.
+- **Se añadió [parse-community/parse-server](https://github.com/parse-community/parse-server)** como alternativa abierta y mantenida para backend de aplicaciones. Tiene licencia Apache-2.0, aproximadamente 21,4k estrellas, actividad reciente y una versión estable publicada el 30 de octubre de 2026.
+- Supabase y Appwrite siguen siendo las primeras alternativas del catálogo cuando se busca una experiencia más completa o sencilla que Parse Server.
+- Se actualizaron las estrellas aproximadas y la fecha de revisión del `README.md`.
+- FlowiseAI/Flowise continúa excluido porque permanece archivado.
+- No se copió código de terceros; solo se actualizaron enlaces, metadatos y notas de selección.
+
+### Estrellas aproximadas actualizadas
+- Automatización: n8n 209,3k; Huginn 50,3k; Kestra 30,1k; Activepieces 25,3k.
+- IA: Dify 160,2k; Open WebUI 157,5k; GPT Researcher 30,4k.
+- Poco código: ToolJet 41,2k; Appsmith 41,1k; Budibase 28,4k.
+- Web y backend: Next.js 143,5k; shadcn/ui 127,2k; Supabase 114,4k; Vite 83,7k; Appwrite 57,8k; Parse Server 21,4k.
+- E-books y documentos: Typst 56,9k; Pandoc 46,8k; Calibre 26,3k; mdBook 22,3k; Sigil 7k; Quarto CLI 6,1k.
+- CMS: Strapi 73,4k; Payload 45,6k.
+
 ## Revisión del 19 de octubre de 2026
 
 ### Resultado
@@ -45,7 +64,7 @@
 - **Automatización:** n8n-io/n8n, activepieces/activepieces, huginn/huginn, kestra-io/kestra.
 - **IA:** langgenius/dify, open-webui/open-webui, assafelovic/gpt-researcher.
 - **Poco código:** appsmithorg/appsmith, Budibase/budibase, ToolJet/ToolJet.
-- **Web y backend:** vercel/next.js, vitejs/vite, shadcn-ui/ui, supabase/supabase, appwrite/appwrite, pocketbase/pocketbase.
+- **Web y backend:** vercel/next.js, vitejs/vite, shadcn-ui/ui, supabase/supabase, appwrite/appwrite, parse-community/parse-server.
 - **E-books y documentos:** jgm/pandoc, kovidgoyal/calibre, Sigil-Ebook/Sigil, quarto-dev/quarto-cli, rust-lang/mdBook, typst/typst.
 - **CMS:** strapi/strapi, payloadcms/payload.
 
